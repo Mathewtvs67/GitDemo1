@@ -18,3 +18,7 @@ def test_Demo30first():
     print("third")
     print("how")
     print("trust----")
+
+def test_Demo40first():
+    print("Fourth")
+    print("Final")
