@@ -12,3 +12,4 @@ def test_Demo20Second():
     a=5
     b=10
     assert a+5==b
+    print('Hi')
