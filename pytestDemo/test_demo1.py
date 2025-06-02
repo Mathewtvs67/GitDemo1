@@ -8,3 +8,5 @@ def test_Demo1First():
 
 def test_Demo20first():
     print("is great always")
+    print("Always and Always")
+    print("did you know")
