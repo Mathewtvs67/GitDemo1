@@ -1,0 +1,28 @@
+2025-01-25 20:33:06,721:ERROR:pytestDemo.test_logging:error statement
+2025-01-25 20:33:06,722:CRITICAL:pytestDemo.test_logging:critical statement
+2025-01-25 20:35:00,028:INFO:pytestDemo.test_logging:Information statement
+2025-01-25 20:35:00,028:DEBUG:pytestDemo.test_logging:debug statement
+2025-01-25 20:35:00,029:ERROR:pytestDemo.test_logging:error statement
+2025-01-25 20:35:00,029:CRITICAL:pytestDemo.test_logging:critical statement
+2025-01-25 20:51:02,645:INFO:pytestDemo.test_logging:Information statement
+2025-01-25 20:51:02,646:DEBUG:pytestDemo.test_logging:debug statement
+2025-01-25 20:51:02,646:ERROR:pytestDemo.test_logging:error statement
+2025-01-25 20:51:02,646:CRITICAL:pytestDemo.test_logging:critical statement
+2025-01-25 20:53:58,795:   INFO  :    pytestDemo.BaseClass:   sunil
+2025-01-25 20:53:58,796:   INFO  :    pytestDemo.BaseClass:   mathew.us@hotmail.com
+2025-01-25 20:53:58,804:INFO:pytestDemo.test_logging:Information statement
+2025-01-25 20:53:58,805:DEBUG:pytestDemo.test_logging:debug statement
+2025-01-25 20:53:58,805:ERROR:pytestDemo.test_logging:error statement
+2025-01-25 20:53:58,807:CRITICAL:pytestDemo.test_logging:critical statement
+2025-01-25 20:59:09,741:  INFO: test_myfour: sunil
+2025-01-25 20:59:09,741:  INFO: test_myfour: mathew.us@hotmail.com
+2025-01-25 20:59:09,747:INFO:pytestDemo.test_logging:Information statement
+2025-01-25 20:59:09,747:DEBUG:pytestDemo.test_logging:debug statement
+2025-01-25 20:59:09,747:ERROR:pytestDemo.test_logging:error statement
+2025-01-25 20:59:09,747:CRITICAL:pytestDemo.test_logging:critical statement
+2025-01-25 20:59:59,615:  INFO: test_myfour: sunil
+2025-01-25 20:59:59,616:  INFO: test_myfour: mathew.us@hotmail.com
+2025-01-25 20:59:59,621:INFO:pytestDemo.test_logging:Information statement
+2025-01-25 20:59:59,621:DEBUG:pytestDemo.test_logging:debug statement
+2025-01-25 20:59:59,621:ERROR:pytestDemo.test_logging:error statement
+2025-01-25 20:59:59,622:CRITICAL:pytestDemo.test_logging:critical statement
